@@ -8,7 +8,7 @@
     "theme",
     "retro"
   ],
-  "repository": "https://github.com/atom/retropy-syntax",
+  "repository": "https://github.com/Zeerats/retropython/tree/main/retropy-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
