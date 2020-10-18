@@ -1,0 +1,16 @@
+{
+  "name": "retropy-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Retro colors for Atom by RETRO Python.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "retro"
+  ],
+  "repository": "https://github.com/atom/retropy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
