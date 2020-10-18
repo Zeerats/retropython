@@ -1,2 +1,2 @@
 # retropython
-Projects for the RETRO Python account.
+Projects and assets for the RETRO Python account.
